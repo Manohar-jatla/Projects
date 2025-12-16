@@ -1,7 +1,7 @@
 import pandas as pd
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDM7R2lwIkxpoN-LufRrgqE5T5BaVv5pE4") 
+genai.configure(api_key="Enter Your GeminiAPI Key") 
 
 csv_path = "cs_students.csv" 
 df = pd.read_csv(csv_path)
