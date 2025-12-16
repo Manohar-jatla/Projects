@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Uploaded / runtime data
+uploaded_docs/
+temp/
+*.pdf
+
+# ML models / binaries
+*.pt
+*.pkl
+
+# Zip files
+*.zip
